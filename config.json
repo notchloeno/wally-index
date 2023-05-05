@@ -1,5 +1,6 @@
 {
     "api": "https://wally-backend-wtgxzbxoea-uc.a.run.app",
+    "github_oauth_id": "f57374ae81904b0b25b1",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
